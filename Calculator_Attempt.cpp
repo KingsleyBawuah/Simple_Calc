@@ -71,7 +71,9 @@ int main()
             cout << "That is not a recognized command!";
 
 	}
-	{
-	//cin.get();
+	
+	
+	/*{
+	cin.get();
 	return 0;
-	}
+	/*
